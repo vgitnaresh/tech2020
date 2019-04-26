@@ -5,3 +5,5 @@ added a mango file
 merge test proto type2
 merge test proto1
 
+
+merge test 1 linux
